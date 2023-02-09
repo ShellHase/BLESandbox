@@ -30,8 +30,8 @@ export default function App() {
   })
 
   return (
-    <View>
-      <Text>Test</Text>
+    <View style={{alignItems: "center"}}>
+      <Text style={{fontSize: 50}}>BLESandbox</Text>
     </View>
   );
 }
